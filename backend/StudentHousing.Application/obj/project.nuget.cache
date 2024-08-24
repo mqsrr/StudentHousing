@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KwbDhswC37Lplhl6xJ8QK3rhV70M6nNAvxwehFoo+gLoLO/qibQByAWn9ccZsXfGGjt5rJRCwzNNO+AwqMcHXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikit\\RiderProjects\\StudentHousing\\StudentHousing.Application\\StudentHousing.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

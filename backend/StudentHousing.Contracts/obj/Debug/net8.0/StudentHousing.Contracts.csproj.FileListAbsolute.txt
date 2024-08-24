@@ -1,0 +1,15 @@
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\bin\Debug\net8.0\StudentHousing.Contracts.deps.json
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\bin\Debug\net8.0\StudentHousing.Contracts.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\bin\Debug\net8.0\StudentHousing.Contracts.pdb
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\StudentHousing.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\StudentHousing.Contracts.AssemblyInfoInputs.cache
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\StudentHousing.Contracts.AssemblyInfo.cs
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\StudentHousing.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\StudentHousing.Contracts.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\refint\StudentHousing.Contracts.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\StudentHousing.Contracts.pdb
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\ref\StudentHousing.Contracts.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\bin\Debug\net8.0\StudentHousing.Domain.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\bin\Debug\net8.0\StudentHousing.Domain.pdb
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\StudentHousing.Contracts.csproj.AssemblyReference.cache
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Contracts\obj\Debug\net8.0\StudentH.7612BB6D.Up2Date

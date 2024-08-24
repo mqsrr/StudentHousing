@@ -1,0 +1,11 @@
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\bin\Debug\net8.0\StudentHousing.Domain.deps.json
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\bin\Debug\net8.0\StudentHousing.Domain.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\bin\Debug\net8.0\StudentHousing.Domain.pdb
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\obj\Debug\net8.0\StudentHousing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\obj\Debug\net8.0\StudentHousing.Domain.AssemblyInfoInputs.cache
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\obj\Debug\net8.0\StudentHousing.Domain.AssemblyInfo.cs
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\obj\Debug\net8.0\StudentHousing.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\obj\Debug\net8.0\StudentHousing.Domain.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\obj\Debug\net8.0\refint\StudentHousing.Domain.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\obj\Debug\net8.0\StudentHousing.Domain.pdb
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Domain\obj\Debug\net8.0\ref\StudentHousing.Domain.dll

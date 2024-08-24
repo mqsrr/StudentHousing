@@ -1,0 +1,1 @@
+/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P Very!Strong!Passw0rd -d master -i /var/opt/mssql/scripts/setup.sql

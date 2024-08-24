@@ -1,0 +1,17 @@
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\bin\Debug\net8.0\StudentHousing.Application.deps.json
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\bin\Debug\net8.0\StudentHousing.Application.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\bin\Debug\net8.0\StudentHousing.Application.pdb
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\bin\Debug\net8.0\StudentHousing.Domain.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\bin\Debug\net8.0\StudentHousing.Domain.pdb
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\StudentHousing.Application.csproj.AssemblyReference.cache
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\StudentHousing.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\StudentHousing.Application.AssemblyInfoInputs.cache
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\StudentHousing.Application.AssemblyInfo.cs
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\StudentHousing.Application.csproj.CoreCompileInputs.cache
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\StudentH.1ADF2C6E.Up2Date
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\StudentHousing.Application.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\refint\StudentHousing.Application.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\StudentHousing.Application.pdb
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\obj\Debug\net8.0\ref\StudentHousing.Application.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\bin\Debug\net8.0\StudentHousing.Contracts.dll
+C:\Users\nikit\RiderProjects\StudentHousing\StudentHousing.Application\bin\Debug\net8.0\StudentHousing.Contracts.pdb

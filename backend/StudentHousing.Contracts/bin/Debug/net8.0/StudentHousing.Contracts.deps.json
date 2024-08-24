@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StudentHousing.Contracts/1.0.0": {
+        "dependencies": {
+          "StudentHousing.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StudentHousing.Contracts.dll": {}
+        }
+      },
+      "StudentHousing.Domain/1.0.0": {
+        "runtime": {
+          "StudentHousing.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentHousing.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentHousing.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
